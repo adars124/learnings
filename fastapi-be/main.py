@@ -110,6 +110,7 @@ def delete_item(item_id: int):
     return {"message": "Item not found"}
 
 
+# This is a test comment (for github demonstration purpose)
 # --------------------
 # Run server
 # --------------------
